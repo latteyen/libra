@@ -40,7 +40,7 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
-          <NameHeader>libracoin.co For Sale</NameHeader>
+          <NameHeader>libraprice.co for sale</NameHeader>
           <Description>Contact phil.savage84 at gmail.com</Description>
         </Container>
       </OuterContainer>
