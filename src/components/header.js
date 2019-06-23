@@ -77,7 +77,7 @@ const Header = ({ siteTitle }) => (
     <Content>
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
-       <NavLink to="http://freelibraprice.co">Libraprice.co</NavLink>
+       <NavLink href="http://freelibraprice.co">Libraprice.co</NavLink>
         {/* A comment that won't be rendered  <GitHubLink href="https://github.com/niklasmtj/gatsby-starter-julia">GitHub</GitHubLink> */}
       </p>
     </Content>
