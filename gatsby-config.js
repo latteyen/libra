@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Libraprice.co`,
+    title: `Freelibra.xyz`,
     description: `A minimal blog starter built with Gatsbyjs. The needes Gatsby files are included.`,
     author: `@niklasmtj`,
   },
