@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Freelibra.xyz`,
-    description: `A minimal blog starter built with Gatsbyjs. The needes Gatsby files are included.`,
-    author: `@niklasmtj`,
+    description: `Freelibra.xyz website for sale. Ideal for Libra coin investors and enthusiats of Libra coin and Facebooks Calibra Wallet`,
+    author: `@mylannalife`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
